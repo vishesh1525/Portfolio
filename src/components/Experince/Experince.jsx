@@ -2,9 +2,7 @@ import React from 'react'
 
 function Experince() {
   return (
-    <div>
-      experince
-    </div>
+    <section id='experince'>experince</section>
   )
 }
 

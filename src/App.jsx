@@ -20,7 +20,7 @@ function App() {
      <Portfolio/>
      <Contact/>
      <Footer/>
-     <button className='btn'>click here</button>
+     
 
     </>
   )
