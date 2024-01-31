@@ -30,7 +30,8 @@ function About() {
             
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde laboriosam, est incidunt odit dolor blanditiis similique cumque, eum reiciendis veniam sunt maiores placeat molestiae temporibus accusamus perspiciatis adipisci doloremque aut?
+            Aspiring computer science student seeking a challenging internship opportunity to apply and enhance my programming skills, particularly in C++, Data Structures and Algorithms, and Web Development. Eager to contribute my enthusiasm and knowledge to a
+dynamic team, learn from experienced professionals, and gain practical experience in the field of software development
             </p>
             <a href="#contact">Lets connect</a>
           </div>   

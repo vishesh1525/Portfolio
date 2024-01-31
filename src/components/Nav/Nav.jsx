@@ -11,7 +11,6 @@ function Nav() {
    const [activenav,setactivenav]=useState('')
   return (
    <nav>
-      <a href='#' onClick={()=>setactivenav('#')} className={activenav==='#'?'active':''}><IoMdHome /></a>
       <a href='#About' onClick={()=>setactivenav('#About')} className={activenav==='#About'?'active':''}><FaRegUserCircle /></a>
       <a href='#experince' onClick={()=>setactivenav('#experince')} className={activenav==='#experince'?'active':''}><CiBookmarkPlus /></a>
       <a href='#Contact' onClick={()=>setactivenav('#Contact')} className={activenav==='#Contact'?'active':''}><IoIosContacts /></a>
