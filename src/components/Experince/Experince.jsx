@@ -10,43 +10,69 @@ function Experince() {
       <div className="container experince_container">
         <div className="experince_frontend">
         
-          <h3>Development</h3>
+          <h3>Tech Languages:</h3>
           <div className="experince_content">
             <article className='experince_details'>
                <MdMilitaryTech className='experince_details-icon' />
                <div>
-               <h4>HTML</h4>
+               <h4>C++ & C</h4>
                  <small className='text-light'>Experinced</small>
                </div>
                  
             </article>
             <article className='experince_details'>
             <MdMilitaryTech className='experince_details-icon' />
-            <div><h4>React</h4>
-                 <small className='text-light'>Experinced</small></div>
-                 
-            </article>
-            <article className='experince_details'>
-            <MdMilitaryTech className='experince_details-icon'/>
-            <div>
-            <h4>CSS</h4>
-                 <small className='text-light'>Experinced</small>
-            </div>
+            <div><h4>Python</h4>
+                 <small className='text-light'>Intermediate</small></div>
                  
             </article>
             <article className='experince_details'>
             <MdMilitaryTech className='experince_details-icon' />
-                 <div><h4>JAVASCRIPT,TYPESCRIPT</h4>
+            <div><h4>HTML5,CSS,JavaScript</h4>
                  <small className='text-light'>Experinced</small></div>
+                 
             </article>
             <article className='experince_details'>
             <MdMilitaryTech className='experince_details-icon' />
-                 <div><h4>JAVASCRIPT,<br/>TYPESCRIPT</h4>
+            <div><h4>Node js and express js</h4>
                  <small className='text-light'>Experinced</small></div>
+                 
             </article>
+           
+          </div>
+        </div>
+        <div className="experince_backend">
+        <h3>Development</h3>
+          <div className="experince_content">
             <article className='experince_details'>
-            <MdMilitaryTech className='experince_details-icon'/>
+            <MdMilitaryTech className='experince_details-icon' />
                  <div><h4>MONGODB, SQL</h4>
+                 <small className='text-light'>Experinced</small></div>
+            </article>
+            <article className='experince_details'>
+            <MdMilitaryTech className='experince_details-icon'/>
+                 <div><h4>DSA</h4>
+                 <small className='text-light'>Experinced</small></div>
+            </article>
+            <article className='experince_details'>
+            <MdMilitaryTech className='experince_details-icon' />
+                 <div><h4>C++</h4>
+                 <small className='text-light'>Experinced</small></div>
+            </article>
+            <article className='experince_details'>
+            <MdMilitaryTech className='experince_details-icon' />
+                 <div><h4>PYTHON</h4>
+                 <small className='text-light'>Experinced</small></div>
+            </article>
+            <article className='experince_details'>
+            <MdMilitaryTech className='experince_details-icon' />
+                <div> <h4>DBMS</h4>
+                 <small className='text-light'>Experinced</small></div>
+            </article>
+            <article className='experince_details'>
+                 <MdMilitaryTech className='experince_details-icon'/>
+                 <div>
+                  <h4>OOPS</h4>
                  <small className='text-light'>Experinced</small></div>
             </article>
           </div>
@@ -87,7 +113,42 @@ function Experince() {
             </article>
           </div>
         </div>
-        
+        <div className="experince_backend">
+        <h3>Development</h3>
+          <div className="experince_content">
+            <article className='experince_details'>
+            <MdMilitaryTech className='experince_details-icon' />
+                 <div><h4>MONGODB, SQL</h4>
+                 <small className='text-light'>Experinced</small></div>
+            </article>
+            <article className='experince_details'>
+            <MdMilitaryTech className='experince_details-icon'/>
+                 <div><h4>DSA</h4>
+                 <small className='text-light'>Experinced</small></div>
+            </article>
+            <article className='experince_details'>
+            <MdMilitaryTech className='experince_details-icon' />
+                 <div><h4>C++</h4>
+                 <small className='text-light'>Experinced</small></div>
+            </article>
+            <article className='experince_details'>
+            <MdMilitaryTech className='experince_details-icon' />
+                 <div><h4>PYTHON</h4>
+                 <small className='text-light'>Experinced</small></div>
+            </article>
+            <article className='experince_details'>
+            <MdMilitaryTech className='experince_details-icon' />
+                <div> <h4>DBMS</h4>
+                 <small className='text-light'>Experinced</small></div>
+            </article>
+            <article className='experince_details'>
+                 <MdMilitaryTech className='experince_details-icon'/>
+                 <div>
+                  <h4>OOPS</h4>
+                 <small className='text-light'>Experinced</small></div>
+            </article>
+          </div>
+        </div>
       </div>
     </section>
   )
